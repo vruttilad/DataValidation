@@ -13,7 +13,7 @@ namespace DataValidationEx
         {
             TestClass employee = new TestClass
             {
-                Name = "Vedanshi",
+                Name = "Vrutti",
                 Age = 10,
                 UserName = "agness@17",
                 Email = "xyz@",
